@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'http://www.amazon.com/Carl-East/e/B003DWBE3O/ref=dp_byline_cont_ebooks_1'
-datePublished: '2016-04-18T15:32:57.170Z'
-dateModified: '2016-04-18T15:32:37.773Z'
+datePublished: '2016-04-19T01:36:43.529Z'
+dateModified: '2016-04-18T21:09:25.532Z'
 authors: []
 publisher:
   name: null
